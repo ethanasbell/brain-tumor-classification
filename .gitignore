@@ -1,0 +1,20 @@
+# Byte-compiled Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda env
+mri-env/
+.env/
+
+# Data files
+data/raw/
+data/train_metadata.csv
+data/val_metadata.csv
+data/test_metadata.csv
+*.csv
+
+# OS junk
+.DS_Store
